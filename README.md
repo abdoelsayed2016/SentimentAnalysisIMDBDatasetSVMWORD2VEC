@@ -1,1 +1,1 @@
-# SentimentAnalysisIMDBDatasetSVMWORD2VEC
+# Sentiment Analysis USING SVM WORD2VEC
