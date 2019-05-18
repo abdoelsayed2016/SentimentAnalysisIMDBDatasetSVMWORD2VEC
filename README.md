@@ -1,1 +1,1 @@
-# Sentiment Analysis USING SVM WORD2VEC
+# Sentiment Analysis Using SVM Word2Vec
